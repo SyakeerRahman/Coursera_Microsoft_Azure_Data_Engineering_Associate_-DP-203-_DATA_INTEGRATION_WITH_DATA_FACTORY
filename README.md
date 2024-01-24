@@ -1,4 +1,4 @@
-![image](https://github.com/SyakeerRahman/Coursera_Microsoft_Azure_Data_Engineering_Associate_-DP-203-_DATA_INTEGRATION_WITH_DATA_FACTORY/assets/105381652/e09e176e-21f3-4a00-b1df-2755ad322729)# Coursera_Microsoft_Azure_Data_Engineering_Associate_-DP-203-_DATA_INTEGRATION_WITH_DATA_FACTORY
+# Coursera_Microsoft_Azure_Data_Engineering_Associate_-DP-203-_DATA_INTEGRATION_WITH_DATA_FACTORY
 
   ## Module 1 Integrate data with Azure Data Factory or Azure Synapse Pipeline
     ### Understand Azure Data Factory
