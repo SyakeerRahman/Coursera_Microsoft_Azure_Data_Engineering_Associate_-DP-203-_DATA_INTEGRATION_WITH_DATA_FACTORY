@@ -555,3 +555,17 @@ When Azure IR, the type must be set to Managed. You do not need to specify compu
   ## Module 8 Course Practice Exam
     ### Practice Exam on Data integration at scale with Azure Data Factory or Azure Synapse Pipeline
     ### Course wrap up
+
+<img width="374" alt="image" src="https://github.com/SyakeerRahman/Coursera_Microsoft_Azure_Data_Engineering_Associate_-DP-203-_DATA_INTEGRATION_WITH_DATA_FACTORY/assets/105381652/db9824c8-4c44-43da-921d-429a86f5455a">
+<img width="374" alt="image" src="https://github.com/SyakeerRahman/Coursera_Microsoft_Azure_Data_Engineering_Associate_-DP-203-_DATA_INTEGRATION_WITH_DATA_FACTORY/assets/105381652/818fa211-0e5d-4126-ad6c-76ed824c8937">
+<img width="259" alt="image" src="https://github.com/SyakeerRahman/Coursera_Microsoft_Azure_Data_Engineering_Associate_-DP-203-_DATA_INTEGRATION_WITH_DATA_FACTORY/assets/105381652/3f820e92-8607-47af-8bc4-ae893135e91e">
+<img width="391" alt="image" src="https://github.com/SyakeerRahman/Coursera_Microsoft_Azure_Data_Engineering_Associate_-DP-203-_DATA_INTEGRATION_WITH_DATA_FACTORY/assets/105381652/5e83c861-aad0-4865-83bd-7a2ee86ef02e">
+<img width="485" alt="image" src="https://github.com/SyakeerRahman/Coursera_Microsoft_Azure_Data_Engineering_Associate_-DP-203-_DATA_INTEGRATION_WITH_DATA_FACTORY/assets/105381652/e1642e6d-539c-4d37-9c2d-299219bbed95">
+<img width="482" alt="image" src="https://github.com/SyakeerRahman/Coursera_Microsoft_Azure_Data_Engineering_Associate_-DP-203-_DATA_INTEGRATION_WITH_DATA_FACTORY/assets/105381652/b97fdf45-2896-4309-b42b-595bfdd2fd3c">
+<img width="379" alt="image" src="https://github.com/SyakeerRahman/Coursera_Microsoft_Azure_Data_Engineering_Associate_-DP-203-_DATA_INTEGRATION_WITH_DATA_FACTORY/assets/105381652/daea3e29-db80-4e0b-946d-30a23378f790">
+<img width="371" alt="image" src="https://github.com/SyakeerRahman/Coursera_Microsoft_Azure_Data_Engineering_Associate_-DP-203-_DATA_INTEGRATION_WITH_DATA_FACTORY/assets/105381652/6e210cfb-5b75-4a2a-b51b-149daef56546">
+<img width="397" alt="image" src="https://github.com/SyakeerRahman/Coursera_Microsoft_Azure_Data_Engineering_Associate_-DP-203-_DATA_INTEGRATION_WITH_DATA_FACTORY/assets/105381652/940c3557-1a00-45b4-88b0-62c11a3e9352">
+
+
+
+
